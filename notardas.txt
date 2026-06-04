@@ -1,0 +1,8 @@
+Reflexión sobre GitHub:
+
+Para mí, esta herramienta es clave para cualquier desarrollador, un elisir. 
+Al principio te marea un poco el concepto de mandar el código a la 'nube', 
+pero después te das cuenta de que es la mejor forma de tener un respaldo seguro 
+y no andar renegando con archivos perdidos. Además, está buenísimo para laburar 
+en equipo sin pisarse el trabajo ni perder las versiones viejas del proyecto. 
+Es como una red social pero para los que nos gusta meterle mano al software.
